@@ -20,5 +20,7 @@ char *find_masked_chars(Matrice *mask,
 Matrice m_difference(Matrice *matrice1, Matrice *matrice2);
 int i_get_element(Matrice *matrice, int i, int j);
 char c_get_element(C_Matrice *matrice, int i, int j);
+void copy_to(Matrice *matrice_to_copy, Matrice *matrice);
+Matrice apply_ghosting(Matrice *true_state);
 
 #endif // !MATRICE_H

@@ -1,3 +1,8 @@
+
+Code : Human Made
+README : AI generated under my guidance
+
+--- 
 ### 0. Demonstration
 
 *(To be added)*
